@@ -6,8 +6,9 @@ It is quite handy to find ip addresses of devices connected to the same WiFi Rou
 
 ##### INSTALL
 
-    1. git clone 
-    2. cd
+    1. git clone https://github.com/vikilabs/scan_network.git
+    2. cd scan_network
+    3. chmod +x ./install.sh
     3. ./install.sh
 
 ##### UNINSTALL
