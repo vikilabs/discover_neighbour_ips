@@ -17,7 +17,7 @@ It is quite handy to find ip addresses of devices connected to the same WiFi Rou
 
 ##### USAGE GUIDE 
 
-    $scan_net
+    $scannet
 
     
 ##### SYSTEM REQUIREMENT 

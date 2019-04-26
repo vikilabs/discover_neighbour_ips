@@ -1,2 +1,2 @@
-sudo rm /usr/local/bin/scan_net
-sudo rm /usr/lib/scan_net.py
+sudo rm /usr/local/bin/scannet
+sudo rm /usr/lib/scannet.py
