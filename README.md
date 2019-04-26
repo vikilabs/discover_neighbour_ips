@@ -20,3 +20,14 @@ It is quite handy to find ip addresses of devices connected to the same WiFi Rou
     $scan_net
 
     
+##### SYSTEM REQUIREMENT 
+    
+    1. Linux
+    2. MAC
+    3. WINDOWS
+    
+##### DEPENDENCIES
+    
+    1. python 2.7
+    2. ping utility
+    
