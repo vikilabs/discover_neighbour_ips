@@ -24,7 +24,7 @@ debug = False
 child_process_list = []
 parent_process_id = None
 class_c_address_len = 255
-number_of_process = 30
+number_of_process = 200
 search_timeout = 200 #seconds
 pingable_ip_list = []
 
